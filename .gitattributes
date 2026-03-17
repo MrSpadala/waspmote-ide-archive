@@ -1,0 +1,4 @@
+waspmote-pro-ide-v06.02-macosx.zip filter=lfs diff=lfs merge=lfs -text
+waspmote-pro-ide-v06.28-linux32.zip filter=lfs diff=lfs merge=lfs -text
+waspmote-pro-ide-v06.28-linux64.zip filter=lfs diff=lfs merge=lfs -text
+waspmote-pro-ide-v06.28-windows.zip filter=lfs diff=lfs merge=lfs -text
